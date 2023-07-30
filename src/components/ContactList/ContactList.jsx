@@ -1,5 +1,4 @@
 import PropTypes from 'prop-types';
-
 import { Contacts } from './Contacts';
 
 export function ContactList({ list, onDeleteItem }) {
